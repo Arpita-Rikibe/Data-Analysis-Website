@@ -1,6 +1,6 @@
-# Data Analysis Web Application
+# Data Insight Pro
 
-This web application provides a user-friendly interface for conducting various data analysis tasks. Users can upload CSV datasets and perform analyses including descriptive statistics, regression analysis, correlation analysis, outlier detection, and visualizations such as histograms, boxplots, and scatter plots.
+This website provides a user-friendly interface for conducting various data analysis tasks. Users can upload CSV datasets and perform analyses including descriptive statistics, regression analysis, correlation analysis, outlier detection, and visualizations such as histograms, boxplots, and scatter plots.
 
 ## Features
 
@@ -25,7 +25,7 @@ This web application provides a user-friendly interface for conducting various d
 
 ## Usage
 
-1. Navigate to the web application.
+1. Navigate to the website.
 2. Explore the home page for project introduction, about us page for team information, and contact page for inquiries.
 3. Visit the upload page to upload your CSV datasets.
 4. Select the desired analyses and visualizations.
